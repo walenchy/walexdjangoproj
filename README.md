@@ -1,2 +1,2 @@
 # walexdjangoproj
-zuri-Full-stack-development
+zuri full- stack software
